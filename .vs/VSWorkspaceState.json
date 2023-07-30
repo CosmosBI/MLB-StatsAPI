@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\docs",
+    "\\statsapi",
+    "\\tests"
+  ],
+  "SelectedNode": "\\statsapi\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
